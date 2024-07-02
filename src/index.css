@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@900&display=swap");
+
+* {
+  margin: 0;
+}
+body {
+  min-height: 100vh;
+  background-image: linear-gradient(#00d4ff, #090979);
+  font-family: "Montserrat", sans-serif;
+  padding: 5px;
+}
